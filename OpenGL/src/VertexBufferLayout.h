@@ -2,7 +2,7 @@
 #include <vector>
 #include <GL/glew.h>
 
-#include "Renderer.h"
+#include "CheckGL.h"
 
 struct VertexBufferElement
 {

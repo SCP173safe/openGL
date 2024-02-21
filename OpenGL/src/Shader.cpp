@@ -1,6 +1,6 @@
 #include "Shader.h"
 
-#include "Renderer.h"
+#include "CheckGL.h"
 
 #include <iostream>
 #include <fstream>
